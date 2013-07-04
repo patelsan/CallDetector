@@ -1,0 +1,16 @@
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/bin/Debug/CallDetector.dll.mdb
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/bin/Debug/CallDetector.dll
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/bin/Debug/CallDetector.CallDetector.apk
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Debug/android/bin/CallDetector.CallDetector.apk
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Debug/res/layout/main.xml
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Debug/res/values/strings.xml
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Debug/res/drawable/icon.png
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Debug/res/drawable/wood03.jpg
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Debug/res/drawable/primary_button.xml
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Debug/res/drawable/logo.png
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Debug/res/drawable/phone.png
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Debug/R.cs.flag
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/bin/Debug/CallDetector.CallDetector-Signed.apk
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Debug/uploadflags.txt
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Debug/CallDetector.dll
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Debug/CallDetector.dll.mdb

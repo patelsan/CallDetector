@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="CallDetector.CallDetector">
+  <uses-sdk android:minSdkVersion="8" />
+  <application android:label="CallDetector" android:name="mono.android.app.Application">
+    <service android:name="calldetector.PhoneCallService" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="CallDetector.CallDetector.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+  <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+</manifest>

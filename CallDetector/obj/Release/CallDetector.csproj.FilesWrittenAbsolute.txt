@@ -1,0 +1,10 @@
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/bin/Release/CallDetector.dll
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/bin/Release/CallDetector.CallDetector.apk
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Release/android/bin/CallDetector.CallDetector.apk
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Release/res/layout/main.xml
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Release/res/values/strings.xml
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Release/res/drawable/icon.png
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Release/R.cs.flag
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/bin/Release/CallDetector.CallDetector-Signed.apk
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Release/uploadflags.txt
+/Users/Sanjay/Documents/EXPERIMENTS/CallDetector/CallDetector/obj/Release/CallDetector.dll
